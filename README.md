@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Kartik Singh 👋  <br>I'm a passionate Web Developer and UI/UX enthusiast focused on building impactful digital experiences.  <br>Currently exploring full-stack development with the MERN stack, integrating AI tools, and deploying modern SaaS apps.<br><br>🚀 I love combining clean UI design with powerful backend logic to solve real-world problems.<br><br>🧠 Learning: React.js, Node.js, MongoDB, AI APIs, Blockchain integration  <br>🛠️ Projects: Deepfake Detection App, Dynamic Portfolio, AI-Powered Web Tools  <br>🌐 Portfolio: (https://kartikdev.me/)<br>
+Hi, I'm Kartik Singh 👋 
+![Profile Views](https://komarev.com/ghpvc/?username=kartik-singhhh03&style=flat)
+<br>I'm a passionate Web Developer and UI/UX enthusiast focused on building impactful digital experiences.  <br>Currently exploring full-stack development with the MERN stack, integrating AI tools, and deploying modern SaaS apps.<br><br>🚀 I love combining clean UI design with powerful backend logic to solve real-world problems.<br><br>🧠 Learning: React.js, Node.js, MongoDB, AI APIs, Blockchain integration  <br>🛠️ Projects: Deepfake Detection App, Dynamic Portfolio, AI-Powered Web Tools  <br>🌐 Portfolio: (https://kartikdev.me/)<br>
 
 
 ## 🌐 Socials:
