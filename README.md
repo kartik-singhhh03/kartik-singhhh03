@@ -85,7 +85,7 @@ https://holiday-home-host.vercel.app/
 
 ### 🇪🇪 Glass Drone
 
-https://glass-drone.ee/
+https://glassdrone.ee/
 
 ---
 
